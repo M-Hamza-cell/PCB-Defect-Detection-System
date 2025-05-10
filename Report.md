@@ -19,7 +19,7 @@ This project presents an automated Printed Circuit Board (PCB) defect detection 
 
 ## Acknowledgments
 
-I would like to express my gratitude to [Supervisor's Name] for their guidance and expertise throughout this project. I also thank [Other Names] for their valuable feedback and support. Finally, I acknowledge the open-source communities of Ultralytics and Flask, whose tools made this project possible.
+I would like to express my gratitude to [Assistance Professor Sangeeta Yadav  ] for their guidance and expertise throughout this project. I also thank [Shashikant Kumar Bind,Siddharth Kumar] for their valuable feedback and support. Finally, I acknowledge the open-source communities of Ultralytics and Flask, whose tools made this project possible.
 
 ---
 
